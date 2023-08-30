@@ -1,0 +1,25 @@
+.header { 
+    background-color: #333; 
+    color: #ffffff; 
+    text-align: center; 
+    padding: 1rem; 
+    }
+.flex-container{
+    display: flex;
+    gap: 300px;
+    padding: 30px;
+}
+.flex-item{
+ border: 10px black;
+}
+.footer { 
+    background-color: #333; 
+    color: #ffffff; 
+    text-align: center;
+    padding: 1rem; 
+    position: static;
+    bottom: 0;
+    min-height: 30px;
+
+    } 
+    
